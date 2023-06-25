@@ -1,4 +1,4 @@
-# A Netflix clone using firebase as backend for authentication tmdb api for fetching movies
+# A Netflix clone using firebase for authentication tmdb api for fetching movies
 *Link: https://netflix-clone-7401f.firebaseapp.com*
 
 
